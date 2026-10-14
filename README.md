@@ -1,44 +1,82 @@
-# Humphrey Ejumah | Business Analyst | Banking Operations | Quality Assurance
+# Humphrey Ejumah | Business Analyst
 
-Business analysis and quality assurance professional with a background in banking operations, regulatory compliance, customer service, and software testing. Experienced in understanding operational processes, identifying process gaps, supporting system improvements, documenting requirements, and validating business and system outcomes.
+## Professional Profile
 
-My approach combines business process knowledge, stakeholder collaboration, requirements analysis, risk awareness, and software quality assurance to help bridge the gap between business needs and technology solutions.
+Business Analyst focused on understanding business needs, analyzing operational processes, documenting requirements, and supporting the delivery of effective business solutions.
 
-## Core Competencies
+My approach to business analysis emphasizes stakeholder collaboration, structured requirements documentation, process improvement, business rules, and solution validation. I translate business needs into clear, actionable requirements that support informed decision-making and successful project delivery.
+
+## Core Business Analysis Competencies
 
 - Business Requirements Analysis
-- Functional Requirements Documentation
-- Stakeholder Analysis and Engagement
-- Business Process Mapping (AS-IS and TO-BE)
+- Functional and Non-Functional Requirements
+- Stakeholder Identification and Analysis
+- Requirements Elicitation and Documentation
+- AS-IS and TO-BE Process Modelling
+- Business Process Improvement and Gap Analysis
 - User Stories and Acceptance Criteria
 - Use Cases and Business Rules
-- Gap Analysis and Process Improvement
-- User Acceptance Testing (UAT)
-- Requirements Traceability
-- Defect Reporting and Management
-- Banking Operations and Compliance
-- Agile, SDLC and STLC
+- Requirements Traceability Matrix (RTM)
+- User Acceptance Testing (UAT) Planning
+- Business Process Documentation
+- Agile and SDLC Fundamentals
 
-## Professional Experience Applied to Business Analysis
+## Selected Business Analysis Work
 
-My professional background in banking operations and compliance has developed my understanding of business processes, operational controls, customer requirements, risk management, and the importance of accurate information. My software testing background complements this experience by supporting requirements validation, defect identification, and solution quality.
+### 1. Banking Loan Application Process Improvement
 
-## Selected Business Analysis Case Studies
+**Focus:** Requirements analysis, stakeholder needs, and process improvement.
 
-### Banking Loan Application Process Improvement
-An analysis of a proposed loan application workflow, covering stakeholder needs, business requirements, functional requirements, process improvement, business rules, user stories, acceptance criteria, and UAT planning.
+A business analysis case study examining a loan application workflow and proposing improvements to application completeness, processing visibility, approval routing, and record keeping.
 
-### Banking Reconciliation Process Improvement
-A process analysis focused on reconciliation activities, exception handling, operational controls, and opportunities to improve accuracy and reporting.
+**Deliverables**
+- Business problem statement
+- Stakeholder analysis
+- Business and functional requirements
+- AS-IS and TO-BE process models
+- User stories and acceptance criteria
+- Use cases and business rules
+- UAT scenarios
+- Requirements Traceability Matrix
 
-### Digital Banking Integration
-A requirements and quality assurance case study covering integration workflows, data validation, error handling, and business acceptance criteria.
+### 2. Banking Reconciliation Process Improvement
+
+**Focus:** Business process analysis and operational controls.
+
+A case study examining reconciliation activities, exception handling, discrepancy resolution, and reporting requirements.
+
+**Planned deliverables:** Process analysis, stakeholder requirements, business rules, process model, and proposed improvement recommendations.
+
+### 3. Digital Banking Integration
+
+**Focus:** Business systems analysis and requirements definition.
+
+A case study exploring integration requirements, transaction validation, exception handling, system responses, and business acceptance criteria.
+
+**Planned deliverables:** Stakeholder analysis, functional requirements, use cases, acceptance criteria, and validation scenarios.
+
+## Business Analysis Approach
+
+My approach follows a structured process:
+
+1. Understand the business problem and desired outcomes.
+2. Identify stakeholders and their needs.
+3. Analyze existing processes and identify gaps.
+4. Elicit, document, and prioritize requirements.
+5. Model the proposed future-state process.
+6. Define user stories, acceptance criteria, and business rules.
+7. Trace requirements to validation and acceptance scenarios.
 
 ## Tools
 
-Microsoft Excel, Jira, Confluence, GitHub, Power BI, SQL.
+Microsoft Excel | Jira | Confluence | Power BI | GitHub | SQL |
 
-## Professional Focus
+## Portfolio Purpose
 
-Interested in Business Analyst, Business Systems Analyst, Business and QA Analyst, and Process Improvement opportunities where banking knowledge, analytical thinking, requirements documentation, and quality assurance can support effective business solutions.
+This portfolio presents business analysis work samples that demonstrate structured problem-solving, requirements documentation, process analysis, and solution planning. Case studies are identified as illustrative where they do not represent work delivered for a real client.
 
+## Contact
+
+Phone: +1(780)231-7560
+
+Email: ejumahhumphrey@gmail.com
